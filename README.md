@@ -9,7 +9,7 @@
 
 ## Usage
 
-### 1. Clone or [download](https://github.com/backdevs/buzzd-linux-bundle/archive/refs/heads/main.zip) and extract this repository
+### 1. [Download](https://github.com/bogdannbv/buzzd-linux-bundle/archive/refs/heads/main.zip) and extract this bundle
 ### 2. Run `install.sh`
 
 - During the installation the BZDPatcher will start, proceed with patching Yahoo! Messenger as usual and then exit.
