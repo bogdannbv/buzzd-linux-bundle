@@ -1,7 +1,7 @@
 # Yahoo! Messenger Linux Installer Bundle
 
 > [!WARNING]
-> **This is a work in process, don't expect much**
+> **This is a work in progress, don't expect much**
 
 ## Prerequisites
 - [wine](https://www.winehq.org/)
