@@ -4,8 +4,8 @@
 > **This is a work in progress, don't expect much**
 
 ## Prerequisites
-- [wine](https://www.winehq.org/)
-- [winetricks](https://github.com/Winetricks/winetricks)
+- [wine](https://www.winehq.org/) - `^10.12`
+- [winetricks](https://github.com/Winetricks/winetricks) - `^20250102-1`
 
 ## Usage
 
